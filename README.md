@@ -1,2 +1,2 @@
 # SOP
-SOP project in bash lookin for changes on site.
+SOP project in bash looking for changes on site.
